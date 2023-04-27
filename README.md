@@ -1,7 +1,20 @@
-### Hi there, I'm @NimetKrgz 👋
+<div id="header" align= "center">
+  <h1>
+      ### Hi there, I'm @NimetKrgz 👋
+  </h1>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/nimet-karagöz-34238390/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/nimetkaragoz">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
-[![linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn Profile](https://www.linkedin.com/in/nimet-karagöz-34238390/)
-[![twitter](https://twemoji.twitter.com/content/dam/twemoji-twitter/Twitter_Social_Icon_Circle_Color.png.twimg.360.png) Twitter Profile](https://twitter.com/nimetkaragoz/)
+
+
+
 
 <!--
 **NimetKrgz/NimetKrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
