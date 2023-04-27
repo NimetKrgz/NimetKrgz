@@ -1,7 +1,7 @@
 ### Hi there, I'm @NimetKrgz 👋
 
 [![linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn Profile](https://www.linkedin.com/in/nimet-karagöz-34238390/)
-[![twitter](https://i.stack.imgur.com/tSDep.png) Twitter Profile](https://twitter.com/nimetkaragoz/)
+[![twitter](https://twemoji.twitter.com/content/dam/twemoji-twitter/Twitter_Social_Icon_Circle_Color.png.twimg.1920.png) Twitter Profile](https://twitter.com/nimetkaragoz/)
 
 <!--
 **NimetKrgz/NimetKrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
