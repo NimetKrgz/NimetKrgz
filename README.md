@@ -18,6 +18,24 @@ I am a Fullstack Software Developer, Geoinformatics Engineer and Data Analyst.
 - 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing etc.).
 - 👩‍💻 Pronouns: she/her/hers
 
+### Languages and Tools
+<img align="left" alt="angular" width="40px" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+<img align="left" alt="html" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt="css" width="40px" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
+<img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
+<img align="left" alt="dotnet" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" />
+<img align="left" alt="nodejs" width="40px" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="jupyter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
+<img align="left" alt="QGIS" height="40" src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg"/>
+<img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
+<img align="left" alt="mysql" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
+<img align="left" alt="postman" width="40px" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="elastic" width="40px" height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
+<img align="left" alt="docker" width="40px" height="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />
+<img align="left" alt="kubernetes" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="jira" width="40px" height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
+<img align="left" alt="github" width="40px" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 
 
 <!--
