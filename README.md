@@ -4,15 +4,19 @@
   </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/nimet-karagöz-34238390/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40px" />
     </a>
     <a href="https://twitter.com/nimetkaragoz">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" alt="Twitter" width="40px"/>
     </a>
   </div>
 </div>
 
-
+### 🥳 🌍 About Me 🗺 📚 💻
+I am a Fullstack Software Developer, Geoinformatics Engineer and Data Analyst.
+- 🌱 I'm currently working on becoming a senior developer and a Doctor in program Remote Sensing and Geographic Information Systems.
+- 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing etc.).
+- 👩‍💻 Pronouns: she/her/hers
 
 
 
