@@ -20,6 +20,7 @@ I am a Fullstack Software Developer, Geoinformatics Engineer and Data Analyst.
 - 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing etc.).
 - 👩‍💻 Pronouns: she/her/hers
 - 💬 Ask me about Angular, C#, Python, QGIS, SQL, image processing, GIS Tools, spatial statistics tools, AI, ML and DL
+- ✍️ I try to write regularly on [Medium](https://medium.com/@nimetkaragz).
 
 ---
 
