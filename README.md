@@ -41,7 +41,8 @@ I am a Fullstack Software Developer, Geoinformatics Engineer and Data Analyst.
   <img align="left" alt="docker" width="40px" height="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />&nbsp;
   <img align="left" alt="kubernetes" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />&nbsp;
   <img align="left" alt="jira" width="40px" height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />&nbsp;
-  <img align="left" alt="github" width="40px" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+  <img align="left" alt="github" width="40px" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />&nbsp;
+  
 </div>
 
 ---
