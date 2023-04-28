@@ -57,6 +57,7 @@ I am a Fullstack Software Developer, Geoinformatics Engineer and Data Analyst.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NimetKrgz&theme=material-palenight)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=NimetKrgz&label=PROFILE+VIEWS)
 ---
 
 <div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>
