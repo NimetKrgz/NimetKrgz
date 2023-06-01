@@ -15,9 +15,9 @@
 ---
 
 ### 🥳 🌍 About Me 🗺 📚 💻
-I am a Fullstack Software Developer, Geoinformatics Engineer and Data Analyst.
-- 🌱 I'm currently working on becoming a senior developer and a Doctor in program Remote Sensing and Geographic Information Systems.
-- 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing etc.).
+I am a Data Scientist, Geoinformatics Engineer and Fullstack Software Developer.
+- 🌱 I'm currently working on becoming a senior Data Scientist and a Doctor in program Remote Sensing and Geographic Information Systems.
+- 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing, reporting, extract info from them etc.).
 - 👩‍💻 Pronouns: she/her/hers
 - 💬 Ask me about Angular, C#, Python, QGIS, SQL, image processing, GIS Tools, spatial statistics tools, AI, ML and DL
 - ✍️ I try to write regularly on [Medium](https://medium.com/@nimetkaragz).
