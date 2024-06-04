@@ -60,7 +60,7 @@ I am a Data Scientist, Geoinformatics Engineer and Fullstack Software Developer.
 ![](https://komarev.com/ghpvc/?username=NimetKrgz&label=PROFILE+VIEWS)
 ---
 
-<div align="center"><img src="[https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
 <!-- <div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div> -->
 
 <!--
